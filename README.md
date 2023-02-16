@@ -1,2 +1,2 @@
-# Bot-Flopado
-A bot wich have some commands
+# Discord-Bot-Flopado
+A Discord Bot wich have some commands
